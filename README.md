@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! Eu sou Marcos Winicius, mas pode me chamar de Wini(Vini)
 
-<!--
-**Marcos-Winicius/Marcos-Winicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Estudando HTML, CSS, JS, Python, Java e SQL.
+- 📫 Meus contatos: email: marcoswini990@gmail.com 
+- 😄 Pronome: Ele/Dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Marcos-Winicius">
+    <img max-height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Winicius&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
