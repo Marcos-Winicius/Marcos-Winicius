@@ -53,5 +53,5 @@ Eu sou um desenvolvedor back-end que têm muito interesse em I.A 🤖.
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/marcos-winicius-costa-da-silva-pedro-0b25ba317/)
 </p>
 
-| <a href="https://github.com/Marcos-Winicius/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Winicius&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcos Pachêco's github stats" /></a> | <a href="https://github.com/Marcos-Winicius/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Winicius&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Marcos-Winicius/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Winicius&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marcos Winicius github stats" /></a> | <a href="https://github.com/Marcos-Winicius/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Winicius&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
