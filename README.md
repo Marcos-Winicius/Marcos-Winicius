@@ -1,4 +1,4 @@
-## Olá! Eu sou Marcos Winicius, mas pode me chamar de Wini(Vini)
+## Olá! Eu sou Marcos Winicius
 
 - 📖 Estudando HTML, CSS, JS, Python, Java e SQL.
 - 📫 Meus contatos: email: marcoswini990@gmail.com 
